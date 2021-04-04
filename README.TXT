@@ -7,9 +7,3 @@ SEGUNDO COMMIT
 SEGUNDO COMMIT
 SEGUNDO COMMIT
 SEGUNDO COMMIT
-
-tercer commit 
-tercer commit 
-tercer commit 
-tercer commit 
-tercer commit 
